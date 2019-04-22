@@ -1,0 +1,22 @@
+#info {
+    background-color: #3d3a3d;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0,0, 0.3);
+    display: inline-block;
+    height: 600px;
+    left: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    position: absolute;
+    text-align: center;
+    width: 550px;
+}
+
+#info img {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+#info p {
+    color: white;
+    font-size: 22px;
+    margin-top: 0;
+}
